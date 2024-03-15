@@ -17,6 +17,8 @@ arbification is a platform to showcase various projects including applications, 
 - [ellfataa](https://github.com/ellfataa)
 - [ZiaKfa](https://github.com/ZiaKfa)
 - [Zkki218](https://github.com/Zkki218)
+- [muhgalihhh](https://github.com/muhgalihhh)
+- [KucingSantuy](https://github.com/KucingSantuy)
 
 ## Purpose🌀
 
